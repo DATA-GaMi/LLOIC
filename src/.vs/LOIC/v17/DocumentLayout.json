@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.Net\\2025\\LOIC-master\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54040692-D1B5-4910-B661-26651BD0EF18}|LOIC.csproj|e:\\.net\\2025\\loic-master\\src\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54040692-D1B5-4910-B661-26651BD0EF18}|LOIC.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54040692-D1B5-4910-B661-26651BD0EF18}|LOIC.csproj|e:\\.net\\2025\\loic-master\\src\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54040692-D1B5-4910-B661-26651BD0EF18}|LOIC.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54040692-D1B5-4910-B661-26651BD0EF18}|LOIC.csproj|e:\\.net\\2025\\loic-master\\src\\frmeula.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54040692-D1B5-4910-B661-26651BD0EF18}|LOIC.csproj|solutionrelative:frmeula.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54040692-D1B5-4910-B661-26651BD0EF18}|LOIC.csproj|E:\\.Net\\2025\\LOIC-master\\src\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54040692-D1B5-4910-B661-26651BD0EF18}|LOIC.csproj|solutionrelative:functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54040692-D1B5-4910-B661-26651BD0EF18}|LOIC.csproj|e:\\.net\\2025\\loic-master\\src\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54040692-D1B5-4910-B661-26651BD0EF18}|LOIC.csproj|solutionrelative:frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54040692-D1B5-4910-B661-26651BD0EF18}|LOIC.csproj|e:\\.net\\2025\\loic-master\\src\\frmezgrab.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54040692-D1B5-4910-B661-26651BD0EF18}|LOIC.csproj|solutionrelative:frmezgrab.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54040692-D1B5-4910-B661-26651BD0EF18}|LOIC.csproj|e:\\.net\\2025\\loic-master\\src\\frmeula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54040692-D1B5-4910-B661-26651BD0EF18}|LOIC.csproj|solutionrelative:frmeula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LOIC||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54040692-D1B5-4910-B661-26651BD0EF18}|LOIC.csproj|e:\\.net\\2025\\loic-master\\src\\frmwtf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54040692-D1B5-4910-B661-26651BD0EF18}|LOIC.csproj|solutionrelative:frmwtf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54040692-D1B5-4910-B661-26651BD0EF18}|LOIC.csproj|e:\\.net\\2025\\loic-master\\src\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\.Net\\2025\\LOIC-master\\src\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "E:\\.Net\\2025\\LOIC-master\\src\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:31:58.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "E:\\.Net\\2025\\LOIC-master\\src\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "E:\\.Net\\2025\\LOIC-master\\src\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AgIAABQDAAAAAAAAAAAgwB8DAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:29:42.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "E:\\.Net\\2025\\LOIC-master\\src\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "frmMain.Designer.cs",
+              "ToolTip": "E:\\.Net\\2025\\LOIC-master\\src\\frmMain.Designer.cs",
+              "RelativeToolTip": "frmMain.Designer.cs",
+              "ViewState": "AgIAAIQDAAAAAAAAAAASwJQDAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:22:01.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmEZGrab.Designer.cs",
+              "DocumentMoniker": "E:\\.Net\\2025\\LOIC-master\\src\\frmEZGrab.Designer.cs",
+              "RelativeDocumentMoniker": "frmEZGrab.Designer.cs",
+              "ToolTip": "E:\\.Net\\2025\\LOIC-master\\src\\frmEZGrab.Designer.cs",
+              "RelativeToolTip": "frmEZGrab.Designer.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAASwMAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:21:56.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmEULA.Designer.cs",
+              "DocumentMoniker": "E:\\.Net\\2025\\LOIC-master\\src\\frmEULA.Designer.cs",
+              "RelativeDocumentMoniker": "frmEULA.Designer.cs",
+              "ToolTip": "E:\\.Net\\2025\\LOIC-master\\src\\frmEULA.Designer.cs",
+              "RelativeToolTip": "frmEULA.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAEwFwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:21:49.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmEULA.cs",
+              "DocumentMoniker": "E:\\.Net\\2025\\LOIC-master\\src\\frmEULA.cs",
+              "RelativeDocumentMoniker": "frmEULA.cs",
+              "ToolTip": "E:\\.Net\\2025\\LOIC-master\\src\\frmEULA.cs",
+              "RelativeToolTip": "frmEULA.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAASwBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:21:43.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LOIC",
+              "DocumentMoniker": "E:\\.Net\\2025\\LOIC-master\\src\\LOIC.csproj",
+              "RelativeDocumentMoniker": "LOIC.csproj",
+              "ToolTip": "E:\\.Net\\2025\\LOIC-master\\src\\LOIC.csproj",
+              "RelativeToolTip": "LOIC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-13T16:15:52.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmWtf.cs",
+              "DocumentMoniker": "E:\\.Net\\2025\\LOIC-master\\src\\frmWtf.cs",
+              "RelativeDocumentMoniker": "frmWtf.cs",
+              "ToolTip": "E:\\.Net\\2025\\LOIC-master\\src\\frmWtf.cs",
+              "RelativeToolTip": "frmWtf.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:14:58.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "E:\\.Net\\2025\\LOIC-master\\src\\Functions.cs",
+              "RelativeDocumentMoniker": "Functions.cs",
+              "ToolTip": "E:\\.Net\\2025\\LOIC-master\\src\\Functions.cs",
+              "RelativeToolTip": "Functions.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:23:40.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

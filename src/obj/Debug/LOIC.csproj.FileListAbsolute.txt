@@ -1,0 +1,15 @@
+E:\.Net\2025\LOIC-master\src\bin\Debug\LOIC.exe.config
+E:\.Net\2025\LOIC-master\src\bin\Debug\LOIC.exe
+E:\.Net\2025\LOIC-master\src\bin\Debug\LOIC.pdb
+E:\.Net\2025\LOIC-master\src\bin\Debug\IRC.pdb
+E:\.Net\2025\LOIC-master\src\obj\Debug\LOIC.csproj.AssemblyReference.cache
+E:\.Net\2025\LOIC-master\src\obj\Debug\LOIC.frmEZGrab.resources
+E:\.Net\2025\LOIC-master\src\obj\Debug\LOIC.frmMain.resources
+E:\.Net\2025\LOIC-master\src\obj\Debug\LOIC.frmEULA.resources
+E:\.Net\2025\LOIC-master\src\obj\Debug\LOIC.frmWtf.resources
+E:\.Net\2025\LOIC-master\src\obj\Debug\LOIC.Properties.Resources.resources
+E:\.Net\2025\LOIC-master\src\obj\Debug\LOIC.csproj.GenerateResource.cache
+E:\.Net\2025\LOIC-master\src\obj\Debug\LOIC.csproj.CoreCompileInputs.cache
+E:\.Net\2025\LOIC-master\src\obj\Debug\LOIC.csproj.Up2Date
+E:\.Net\2025\LOIC-master\src\obj\Debug\LOIC.exe
+E:\.Net\2025\LOIC-master\src\obj\Debug\LOIC.pdb

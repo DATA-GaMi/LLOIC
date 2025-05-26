@@ -1,0 +1,7 @@
+E:\.Net\2025\LOIC-master\src\bin\Debug\IRC.dll
+E:\.Net\2025\LOIC-master\src\bin\Debug\IRC.pdb
+E:\.Net\2025\LOIC-master\src\IRC\obj\Debug\IRC.csproj.AssemblyReference.cache
+E:\.Net\2025\LOIC-master\src\IRC\obj\Debug\IRC.csproj.CoreCompileInputs.cache
+E:\.Net\2025\LOIC-master\src\IRC\obj\Debug\IRC.csproj.Up2Date
+E:\.Net\2025\LOIC-master\src\IRC\obj\Debug\IRC.dll
+E:\.Net\2025\LOIC-master\src\IRC\obj\Debug\IRC.pdb
