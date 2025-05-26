@@ -468,9 +468,11 @@ namespace LOIC
             "TCP",
             "UDP",
             "HTTP",
+            "ICMP",
+            "NTP",
+            "DNS",
             "ReCoil",
-            "slowLOIC",
-            "ICMP"});
+            "slowLOIC"});
             this.cbMethod.Location = new System.Drawing.Point(75, 76);
             this.cbMethod.Name = "cbMethod";
             this.cbMethod.Size = new System.Drawing.Size(75, 27);

@@ -77,3 +77,12 @@ To stop an attack:
 and **be sure to remove "start" from the END of the topic**, if it exists, as well.
 
 Take a look at the source code for more details.
+
+## To Do List
+
+| No.  | method |  Do  |
+| :--: | :----: | :--: |
+|  1   |  NTP   |  ❌   |
+|  2   |  DNS   |  ❌   |
+|  3   |   -    |  ❌   |
+|  4   |   -    |  ❌   |
