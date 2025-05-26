@@ -80,9 +80,9 @@ Take a look at the source code for more details.
 
 ## To Do List
 
-| No.  | method |  Do  |
-| :--: | :----: | :--: |
-|  1   |  NTP   |  ❌   |
-|  2   |  DNS   |  ❌   |
-|  3   |   -    |  ❌   |
-|  4   |   -    |  ❌   |
+| No.  |  method  |  Do  |
+| :--: | :------: | :--: |
+|  1   |   NTP    |  ❌   |
+|  2   |   DNS    |  ❌   |
+|  3   | teardrop |  ❌   |
+|  4   |    -     |  ❌   |
