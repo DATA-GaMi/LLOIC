@@ -1,54 +1,51 @@
 ## INFO
 
-Low Orbit Ion Cannon (**LOIC**) is an open source network stress tool, written in C#.
-LOIC is based on Praetox's LOIC project at https://sourceforge.net/projects/loic/ .
+低轨道离子炮（LOIC）是一款用 C# 编写的开源网络压力测试工具。LOIC 基于 Praetox 的 LOIC 项目（网址：https://sourceforge.net/projects/loic/）。
 
 ## DISCLAIMER
 
-LOIC is for educational purposes only, intended to help server owners develop a "hacker defense" attitude. This tool comes without any warranty.
+LOIC 仅供教育用途，旨在帮助服务器所有者培养“黑客防御”意识。本工具不提供任何担保。
 
-**You may not use this software for illegal or unethical purposes. This includes activities which give rise to criminal or civil liability.**
+**您不得将本软件用于非法或不道德的用途。这包括可能引起刑事或民事责任的活动。**
 
-**Under no event shall the licensor be responsible for any activities, or misdeeds, by the licensee.**
+**在任何情况下，许可方均不对被许可方的任何活动或不当行为负责。**
 
 ## HOW TO RUN ON WINDOWS
 
-GET THE BINARIES!
+获取二进制文件！
 
-Requires Microsoft .NET Framework 3.5 Service Pack 1, available at:
+需要 Microsoft .NET Framework 3.5 Service Pack 1，下载地址：
 http://www.microsoft.com/downloads/en/details.aspx?FamilyID=ab99342f-5d1a-413d-8319-81da479ab0d7&displaylang=en
-
-## HOW TO RUN ON LINUX / MACOSX
-
-Run debug binaries with Mono or Wine.
-Read the wiki at https://github.com/NewEraCracker/LOIC/wiki/_pages for updated instructions.
 
 ## HIVEMIND/HIDDEN MODE
 
-HIVEMIND mode will connect your client to an IRC server so it can be controlled remotely.
-Think of this as a voluntary botnet. Please be aware that your client can potentially be
-made to do naughty things.
+HIVEMIND 模式会将您的客户端连接到 IRC 服务器，以便对其进行远程控制。
+您可以将其视为一个自愿的僵尸网络。请注意，您的客户端可能会被
+控制去做一些不正当的事情。
 
-Note: It does NOT allow remote administration of your machine; it 
-just providees control of LOIC itself.
+注意：它不允许远程管理您的机器；它
+只提供对 LOIC 本身的控制。
 
-If you want to start up in Hivemind mode, run something such as this:
-```
-	LOIC.exe /hivemind irc.server.address
-```
-which will connect to irc://irc.server.adress:6667/loic
+如果您想以 Hivemind 模式启动，请运行以下命令：
 
-You can also specify a port and channel:
 ```
-	LOIC.exe /hivemind irc.server.address 1234 #secret
+	LLOIC.exe /hivemind irc.server.address
 ```
-which will connect to irc://irc.server.adress:1234/secret
+这将连接到 irc://irc.server.adress:6667/loic
 
-In order to run Hivemind Hidden mode, run something such as this:
+您还可以指定端口和频道：
+
 ```
-	LOIC.exe /hidden /hivemind irc.server.address
+	LLOIC.exe /hivemind irc.server.address 1234 #secret
 ```
-which will connect to irc://irc.server.adress:6667/loic without any visible GUI.
+这将连接到 irc://irc.server.adress:1234/secret
+
+要运行 Hivemind 隐藏模式，请运行以下命令：
+
+```
+	LLOIC.exe /hidden /hivemind irc.server.address
+```
+它将连接到 irc://irc.server.adress:6667/loic，而没有任何可见的 GUI。
 
 ## CONTROLLING LOIC FROM IRC
 
